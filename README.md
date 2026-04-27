@@ -69,5 +69,5 @@ Acesse `http://localhost:3000`.
 ## Desenvolvido por
 
 **José Renato** — Desenvolvedor Front-end Freelancer  
-📧 seuemail@email.com  
+📧 joserenatosantosxavier22@gmail.com  
 💼 [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
